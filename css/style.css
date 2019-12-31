@@ -1,0 +1,10 @@
+body {
+    font-family: 'Open Sans';
+}
+
+body nav {
+    font-weight: bold;
+    font-size: medium;
+}
+
+@media only screen and (min-width: 768) {}
